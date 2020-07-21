@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '11th Airborne Division'
+project = '11thAD'
 copyright = '2020, Jörgen Brandt'
 author = 'Jörgen Brandt'
 
@@ -95,7 +95,10 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-# html_sidebars = {}
+html_theme_options = {
+  'show_powered_by': False,
+  'description': '11th Airborne Division'
+}
 
 
 # -- Options for HTMLHelp output ---------------------------------------------

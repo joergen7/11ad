@@ -3,18 +3,48 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 11th Airborne Division's documentation!
-==================================================
+11th Airborne Division
+======================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :hidden:
+
+  about
+  resources
+
+
+.. image:: img/11thadbluepatch.png
+   :width: 200 px
+   :align: center
 
 
 
-Indices and tables
-==================
+**Who we are:**
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+The 11th Airborne Division (11thAD) is an Arma3 milsim community. We are a group of kind and skilled Arma3 players.  We want you to play with us to create a combat experience that is realistic and fun. We look for Arma3 players of any skill and experience level.
+
+
+**What we offer:**
+
+
+With years of knowledge from Arma players and real-life soldiers, the 11thAD creates a milsim feel no one else can provide. We strive to have the best leaders because strong leading makes or breaks a unit. If you are new to Arma 3, both your officers and teammates help you grow.
+
+
+**How we roll:**
+
+
+Our mission design team takes great care in hosting our ops. We have special members who set up and run our weekly missions. They create varying, tough, and fun action for you to enjoy. In-game our design team makes the AI apply skilled flanking and combined arms tactics to push you to your limit.
+
+Every week players from all parts of the world share a meaningful, heavy-action hike in the 11thAD.
+
+Join us.
+
+Recruitment
+-----------
+
+- `Unit application form <https://forms.gle/jwKadzMrLgKSVqrY9>`_
+- `11thAD Discord server <https://discord.gg/RdaayMv>`_
+- 11thAD Teamspeak 3 server: ``173.234.27.145:10067``
+
+
