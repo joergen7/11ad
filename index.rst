@@ -48,3 +48,8 @@ Recruitment
 - 11thAD Teamspeak 3 server: ``173.234.27.145:10067``
 
 
+Media
+-----
+
+- `11thAD on YouTube <https://www.youtube.com/channel/UCFvG3z6EgjRQ9nKTgDpzdRA>`_
+- `11thAD on Instagram <https://www.instagram.com/11th_airborne_a3/>`_

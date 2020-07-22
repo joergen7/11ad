@@ -80,7 +80,10 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+  'show_powered_by': False,
+  'description': '11th Airborne Division'
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -95,11 +98,10 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-html_theme_options = {
-  'show_powered_by': False,
-  'description': '11th Airborne Division'
-}
+# html_sidebars = {}
 
+html_show_copyright = False
+html_copy_source = False
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
