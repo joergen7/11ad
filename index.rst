@@ -23,7 +23,7 @@
 **Who we are:**
 
 
-The 11th Airborne Division (11thAD) is an Arma3 milsim community. We are a group of kind and skilled Arma3 players.  We want you to play with us to create a combat experience that is realistic and fun. We look for Arma3 players of any skill and experience level.
+The 11th Airborne Division (11thAD) is an Arma3 milsim community. We are a group of kind and skilled Arma3 players.  We want you to play with us to create a combat experience that is realistic and fun. We look for Arma3 players of any skill and experience.
 
 
 **What we offer:**
