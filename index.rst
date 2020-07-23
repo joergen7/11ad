@@ -10,6 +10,7 @@
   :hidden:
 
   about
+  streaming
   resources
 
 

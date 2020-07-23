@@ -1,5 +1,5 @@
-Unit Resources
-==============
+Resources
+=========
 
 Arma3 Unit
 ----------
