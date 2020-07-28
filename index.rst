@@ -46,7 +46,7 @@ Recruitment
 
 - `Unit application form <https://forms.gle/jwKadzMrLgKSVqrY9>`_
 - `11thAD Discord server <https://discord.gg/RdaayMv>`_
-- 11thAD Teamspeak 3 server: ``173.234.27.145:10067``
+- 11thAD Teamspeak 3 server: ``tex001.gavs.us:39123``
 
 
 Media
