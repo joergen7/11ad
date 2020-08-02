@@ -10,8 +10,10 @@
   :hidden:
 
   about
+  join
+  setup
+  performance
   streaming
-  resources
 
 
 .. image:: img/11thadbluepatch.png
@@ -41,16 +43,6 @@ Every week players from all parts of the world share a meaningful, heavy-action 
 
 Join us.
 
-Recruitment
------------
 
-- `Unit application form <https://forms.gle/jwKadzMrLgKSVqrY9>`_
-- `11thAD Discord server <https://discord.gg/RdaayMv>`_
-- 11thAD Teamspeak 3 server: ``tex001.gavs.us:39123``
-
-
-Media
------
-
-- `11thAD on YouTube <https://www.youtube.com/channel/UCFvG3z6EgjRQ9nKTgDpzdRA>`_
-- `11thAD on Instagram <https://www.instagram.com/11th_airborne_a3/>`_
+- I want to join. `How do I join? <Join Guide>`_
+- I have joined. `What next? <Setup Guide>`_
