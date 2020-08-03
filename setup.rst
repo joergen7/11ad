@@ -96,14 +96,14 @@ Playback
 
 Visit the Playback page and adjust your ``Voice Volume Adjustment`` to +5.0 dB. Also, in-game turn down the master volume, so that you hear your teammates at all times.
 
-11thAD Arma3 Unit Membership
-----------------------------
+11thAD Arm Patch
+----------------
 
-Being a member of the 11thAD Arma3 unit is optional.
+Being a member of the 11thAD Arma3 unit is optional. But joining the 11thAD Arma3 unit gives you the 11thAD arm patch many of us use.
+
 
 - `11thAD on Arma3 Units <https://units.arma3.com/unit/11thad>`_
 
-Joining the 11thAD Arma3 unit gives you the 11thAD arm patch many of us use.
 
 .. image:: img/screenshot_patch.jpg
    :width: 506 px
