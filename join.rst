@@ -11,15 +11,15 @@ Expectation
 
 **Professionalism**
 
-We expect you to act professionally. We do not tolerate team-killing or profanity. 
+Act professionally. We do not tolerate team-killing or profanity. 
 
 **Dedication**
 
-We expect you to show up. Be sure that our op times fit to your life.
+Show up. Be sure that our op times fit to your life.
 
 **Will to Improve**
 
-We expect you to become better not just at playing the game but at filling your role and interacting with your teammates.
+Become better not just at playing the game but at filling your role and interacting with your teammates.
 
 
 How to Join?
