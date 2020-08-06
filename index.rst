@@ -12,7 +12,6 @@
   about
   join
   setup
-  performance
   streaming
 
 
@@ -44,5 +43,5 @@ Every week players from all parts of the world share a meaningful, heavy-action 
 Join us.
 
 
-- I want to join. `How do I join? <Join Guide>`_
-- I have joined. `What next? <Setup Guide>`_
+- I want to join. `How do I join? <join.html>`_
+- I have joined. `What next? <setup.html>`_
