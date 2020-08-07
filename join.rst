@@ -19,7 +19,7 @@ Show up. Be sure that our op times fit to your life.
 
 **Will to Improve**
 
-Become better not just at playing the game but at filling your role and interacting with your teammates.
+Become better. Pay attention and practice.
 
 
 How to Join?
