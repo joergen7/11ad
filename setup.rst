@@ -39,7 +39,7 @@ This automatically subscribes and adds all necessary mods including TFAR. Rename
 Optional Mods
 ^^^^^^^^^^^^^
 
-The mod list we provide in the unit resources is minimal. I recommend installing at least ShackTac User Interface:
+The mod list we provide in the unit resources is minimal. On top of it I recommend installing at least ShackTac User Interface:
 
 - `ShackTac User Interface <https://steamcommunity.com/sharedfiles/filedetails/?id=498740884>`_
 
