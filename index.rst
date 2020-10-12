@@ -11,6 +11,7 @@
 
   about
   join
+  performance
   setup
   streaming
 
